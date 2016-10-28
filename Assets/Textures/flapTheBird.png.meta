@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 047223c41c30a7c438d566e3d3fc447d
+timeCreated: 1456701862
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: buttonPlay
+    21300002: backGroundMenu
+    21300004: bird1
+    21300006: bird2
+    21300008: upPipe
+    21300010: downPipe
+    21300012: backGroundNight
+    21300014: game_over
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: buttonPlay
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 730
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 29}
+        - {x: -52.5, y: -29}
+        - {x: 52.5, y: -29}
+        - {x: 52.5, y: 29}
+    - name: backGroundMenu
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 288
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144, y: 255}
+        - {x: -144, y: -255}
+        - {x: 144, y: -255}
+        - {x: 144, y: 255}
+    - name: bird1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 342
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bird2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 290
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: upPipe
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 160}
+        - {x: -26, y: -160}
+        - {x: 26, y: -160}
+        - {x: 26, y: 160}
+    - name: downPipe
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 160}
+        - {x: -26, y: -160}
+        - {x: 26, y: -160}
+        - {x: 26, y: 160}
+    - name: backGroundNight
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 514
+        width: 288
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144, y: 255}
+        - {x: -144, y: -255}
+        - {x: 144, y: -255}
+        - {x: 144, y: 255}
+    - name: game_over
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 860
+        width: 195
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.5, y: 24}
+        - {x: -97.5, y: -24}
+        - {x: 94.5, y: -24}
+        - {x: 97.5, y: -17}
+        - {x: 97.5, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
